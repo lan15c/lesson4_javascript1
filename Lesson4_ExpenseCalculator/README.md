@@ -13,7 +13,7 @@ Luke Nitti
 Lessong 4 Calculator Assignment
 
 ### View Project:
-https://lan15c.github.io/lesson4_javascript1/Lesson4_Calculator
+https://lan15c.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator
 
 ### Lessons Learned in the Assignment:
 1. I learned how to calculate a percentage in HTML
