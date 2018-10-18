@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+10/16/18
 
 ### Student Name:  
-(First and Last Name)
+Luke Nitti
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lessong 4 Calculator Assignment
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://lan15c.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to calculate a percentage in HTML
+2. I learned how to create new input labels
+3. I learned how to create a calculator with multiple variables and keep everything organized.
 
 
 
